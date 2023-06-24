@@ -13,6 +13,6 @@ To run this project locally, follow these steps:
 5. Open your browser and visit `http://localhost:3000` to view the application.
 
 ## Live preview
+https://kanban-clone-miraj.vercel.app/
 
-
-## Happy Coding!
+### Happy Coding!
